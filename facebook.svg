@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon / SNS_페이스북</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Body-/-Bottom" transform="translate(-386.000000, -398.000000)">
+            <g id="Bottom" transform="translate(0.000000, 150.000000)">
+                <g id="Company_Info">
+                    <g id="icon-/-SNS_페이스북" transform="translate(386.000000, 248.000000)">
+                        <g id="Facebook" transform="translate(13.050000, 9.000000)" fill="#626262" fill-rule="nonzero">
+                            <path d="M8.6427,9.5886 L9.0468,6.4548 L5.9427,6.4548 L5.9427,4.4532 C5.9427,3.546 6.1947,2.9277 7.497,2.9277 L9.1557,2.9268 L9.1557,0.1233 C8.8686,0.0855 7.884,0 6.7374,0 C4.3452,0 2.7063,1.4607 2.7063,4.1436 L2.7063,6.4548 L0,6.4548 L0,9.5886 L2.7063,9.5886 L2.7063,17.631 L5.9427,17.631 L5.9427,9.5886 L8.6427,9.5886 Z" id="Path"></path>
+                        </g>
+                        <circle id="Oval-Copy-4" stroke="#DEDEDE" cx="18" cy="18" r="17.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
